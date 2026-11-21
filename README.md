@@ -392,6 +392,6 @@ mysql --default-character-set=utf8mb4 -u root -p -t < 05_analytics.sql
 
 If `mysql` is not on your PATH, use the full path, for example `"C:\Program Files\MySQL\MySQL Server 8.0\bin\mysql.exe"`.
 
-# Author
+<h3>Author</h3>
 
 <strong>Algirdas Vailionis</strong>, Data Analyst/Scientist · <a href="https://www.linkedin.com/in/algirdas-vailionis/">LinkedIn</a> · <a href="mailto:algirdas.vailionis@gmail.com">Email</a>
