@@ -1,0 +1,65 @@
+neighbourhood_id,neighbourhood_name,city,country,latitude,longitude
+1,Westminster,London,United Kingdom,51.549749,-0.078566
+2,Camden,London,United Kingdom,51.557068,-0.186854
+3,Islington,London,Great Britain,51.474973,-0.235727
+4,Hackney,London,U.K.,51.508443,-0.175903
+5,Tower Hamlets,London,United Kingdom,51.504254,-0.024709
+6,Kensington and Chelsea,London,United Kingdom,51.550977,-0.214320
+7,Lambeth,London,United Kingdom,51.473409,-0.144968
+8,Southwark,London,United Kingdom,51.478937,-0.073140
+9,Greenwich,London,United Kingdom,51.438795,-0.028976
+10,Hammersmith and Fulham,London,United Kingdom,51.505385,-0.025099
+11,Wandsworth,London,United Kingdom,51.519949,-0.105081
+12,Lewisham,London,UK,51.577270,-0.194044
+13,Haringey,London,United Kingdom,51.541117,-0.217140
+14,Brent,London,United Kingdom,51.443280,-0.104543
+15,Ealing,London,United Kingdom,51.473317,-0.132930
+16,Le Marais,Paris,France,48.874637,2.349572
+17,Montmartre,Paris,France,48.888262,2.313976
+18,Saint-Germain-des-Prés,PARIS,France,48.865643,2.357049
+19,Latin Quarter,Paris,France,48.879790,2.393706
+20,Belleville,Paris,France,48.896478,2.295290
+21,Bastille,Paris,FR,48.893951,2.355089
+22,Canal Saint-Martin,Paris,France,48.820600,2.291693
+23,Pigalle,Paris,France,48.858405,2.327486
+24,Batignolles,Paris,France,48.891193,2.295982
+25,OBERKAMPF,Paris,France,48.872258,2.335581
+26,Opéra,Paris,France,48.866298,2.362983
+27,Passy,Paris,France,48.878755,2.409855
+28,Montparnasse, Paris,France,48.883716,2.290553
+29,Bercy,Paris,France,48.844863,2.388922
+30,Les Halles,Paris,France,48.886969,2.301035
+31,Eixample,Barcelona,Spain,41.395789,2.154662
+32,Gràcia,Barcelona,Spain,41.391663,2.178419
+33,El Born,Barcelona,Spain,41.369134,2.196646
+34,Barri Gòtic,Barcelona,Spain,41.362437,2.123337
+35,El Raval,Barcelona,Spain,41.384606,2.127560
+36,Poblenou,Barcelona,Spain,41.422964,2.117473
+37,Barceloneta,Barcelona,Spain,41.420657,2.166207
+38,Sants,Barcelona,Spain,41.407294,2.115874
+39,Sant Antoni,Barcelona,Spain,41.368123,2.210725
+40,Poble-sec,Barcelona,Spain,41.355785,2.173805
+41,Les Corts,Barcelona,Spain,41.352749,2.126106
+42,Sarrià,Barcelona,Spain,41.387248,2.111395
+43,Horta,Barcelona,Spain,41.405191,2.147611
+44,Sant Martí,Barcelona,Spain,41.370308,2.162050
+45,Vila Olímpica,Barcelona,Spain,41.422343,2.127571
+46,Jordaan,Amsterdam,Netherlands,52.393118,4.864846
+47,De Pijp,Amsterdam,Netherlands,52.388559,4.888600
+48,Centrum,Amsterdam,Netherlands,52.382195,4.943312
+49,OUD-WEST,Amsterdam,Netherlands,52.367131,4.892201
+50,Oud-Zuid,Amsterdam,Netherlands,52.342003,4.928067
+51,Oost,Amsterdam,Netherlands,52.345571,4.899164
+52,Noord,Amsterdam,Netherlands,52.364252,4.854880
+53,Westerpark,Amsterdam,Netherlands,52.370856,4.945721
+54,Indische Buurt,AMS,Netherlands,52.352286,4.920785
+55,Plantage,AMS,Netherlands,52.339926,4.868538
+56,Rivierenbuurt,Amsterdam,Netherlands,52.393396,4.862694
+57,Bos en Lommer,Amsterdam,Netherlands,52.389278,4.930361
+58,Zeeburg,Amsterdam,Netherlands,52.370985,4.882322
+59,Watergraafsmeer,Amsterdam,Netherlands,52.386121,4.922961
+60,Slotervaart,Amsterdam,Netherlands,52.396782,4.940224
+61,Le marais,Paris,France,48.875637,2.348572
+62,Gracia,Barcelona,Spain,41.392663,2.177419
+63,de pijp,Amsterdam,Netherlands,52.389559,4.887600
+64,Camden Town,London,United Kingdom,51.558068,-0.187854
