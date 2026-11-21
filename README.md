@@ -394,4 +394,4 @@ If `mysql` is not on your PATH, use the full path, for example `"C:\Program File
 
 <h3>Author</h3>
 
-<strong>Algirdas Vailionis</strong>, Data Analyst/Scientist · <a href="https://www.linkedin.com/in/algirdas-vailionis/">LinkedIn</a> · <a href="mailto:algirdas.vailionis@gmail.com">Email</a>
+<strong>Algirdas Vailionis</strong>, Data Scientist · <a href="https://www.linkedin.com/in/algirdas-vailionis/">LinkedIn</a> · <a href="mailto:algirdas.vailionis@gmail.com">Email</a>
